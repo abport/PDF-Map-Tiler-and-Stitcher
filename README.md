@@ -1,6 +1,6 @@
 # PDF Map Tiler and Stitcher
 
-Hey there, map enthusiasts and Python coders! 👋 This repo contains two nifty scripts that'll help you work with large PDF maps. Whether you're dealing with gigantic geological surveys, city plans, or just really, really big treasure maps, we've got you covered.
+Hey there, map enthusiasts and Python coders! 👋 This repo contains two nifty scripts that'll help you work with large PDF maps. Whether you're dealing with gigantic geological surveys, city plans, or just really, really big treasure maps, I've got you covered.
 
 ## What's in the Box?
 
@@ -9,7 +9,7 @@ Hey there, map enthusiasts and Python coders! 👋 This repo contains two nifty 
 
 ## Why Would I Need This?
 
-Ever tried opening a 12GB PDF file? Yeah, it's not fun. These scripts let you:
+Ever tried opening a 14GB PDF file? Yeah, it's not fun. These scripts let you:
 
 - Work with sections of large maps without melting your computer
 - Process or edit parts of a map independently
